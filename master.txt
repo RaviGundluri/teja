@@ -1,0 +1,2 @@
+hi ubuntu
+this is tool for git
